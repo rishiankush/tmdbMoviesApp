@@ -1,0 +1,13 @@
+export default {
+  WHITE: "#FFFFFF",
+  BLACK: "#222222",
+  LIGHT_BLACK: "#A5A3AA",
+  GRAY: "#8391A1",
+  LIGHT_GREY: "#C7C6CA",
+  ORANGE: "#FF5F39",
+  DARK_GREY: "#666666",
+  SKY: "#95CFD3",
+  BUTTON_PRESSED: "#184353",
+  BORDER: "#E8ECF4",
+  TEXT_COLOR: "#3E3E4A",
+};
